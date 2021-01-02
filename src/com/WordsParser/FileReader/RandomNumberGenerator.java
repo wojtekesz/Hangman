@@ -1,4 +1,4 @@
-package com.TxtFileReader;
+package com.WordsParser.FileReader;
 
 import java.util.Random;
 
